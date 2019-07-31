@@ -1,0 +1,6 @@
+name: ItemSlotMachinePlus
+version: 1.0-SNAPSHOT
+main: bounen057.itemslotmachineplus.ItemSlotMachinePlus
+
+commands:
+  slotplus:

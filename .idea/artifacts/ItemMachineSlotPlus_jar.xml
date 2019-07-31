@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ItemMachineSlotPlus:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ItemMachineSlotPlus_jar</output-path>
+    <root id="archive" name="ItemMachineSlotPlus.jar">
+      <element id="module-output" name="ItemMachineSlotPlus" />
+    </root>
+  </artifact>
+</component>

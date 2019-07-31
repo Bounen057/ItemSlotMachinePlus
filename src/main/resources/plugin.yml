@@ -1,0 +1,6 @@
+name: ItemSlotMachinePlus
+version: ${project.version}
+main: bounen057.itemslotmachineplus.ItemSlotMachinePlus
+
+commands:
+  slotplus:
